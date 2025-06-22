@@ -38,7 +38,7 @@ Creo en las narrativas que se exploran más que se explican. Me gusta trabajar c
 Disfruto del código no solo como herramienta funcional, sino también como forma de expresión. Me interesa que lo técnico y lo visual dialoguen y se entiendan.
 
 🌱 **Crear con sentido**  
-Los temas que trato suelen estar vinculados al cuidado: del entorno, de la mente, de las emociones. Busco proyectos que transmitan algo auténtico, que dejen una pequeña huella.
+Me gusta tratar temas sociales o sensibles vinculados al entorno, la mente, las emociones... Busco proyectos que transmitan algo auténtico, que dejen una pequeña huella.
 
 ---
 
